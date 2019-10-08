@@ -1,5 +1,7 @@
 <template>
   <div class="hello">
+
+    <img class="img-fluid" src="https://s2.ax1x.com/2019/10/08/uf6TpV.jpg">
     <h1>{{ msg }}</h1>
   </div>
 </template>
